@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1557784296 source:d:\scoala\info\atestat\atestat\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"cifre.h"
+	"numere.h"
+	"vector.h"
+	"matrice.h"
+	"caractere.h"
+
+1549372430 d:\scoala\info\atestat\atestat\atestat.h
+
+1549477205 d:\scoala\info\atestat\atestat\cifre.h
+
+1549477205 source:d:\scoala\info\atestat\atestat\cifre.cpp
+
+1549477903 d:\scoala\info\atestat\atestat\numere.h
+
+1555536900 source:d:\scoala\info\atestat\atestat\numere.cpp
+	<iostream>
+
+1551983065 source:d:\scoala\info\atestat\atestat\vector.cpp
+	<iostream>
+	<fstream>
+
+1551983065 d:\scoala\info\atestat\atestat\vector.h
+
+1555595587 source:d:\scoala\info\atestat\atestat\caractere.cpp
+	<iostream>
+	<cstring>
+
+1555426250 source:d:\scoala\info\atestat\atestat\matrice.cpp
+	<iostream>
+	<fstream>
+
+1555426250 d:\scoala\info\atestat\atestat\matrice.h
+
+1551975025 d:\scoala\info\atestat\atestat\caractere.h
+
